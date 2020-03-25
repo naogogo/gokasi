@@ -3,7 +3,7 @@
 This package wraps the [Kakasi C library](http://kakasi.namazu.org/index.html.en) for Go.
 
 ### Usage
-Import the package:
+You need at least a C compiler and the Kakasi C library. On Debian, `apt install build-essential libkakasi2-dev`. Then, import the package:
 ```
 import "github.com/naogogo/gokasi/pkg/gokasi"
 ```
