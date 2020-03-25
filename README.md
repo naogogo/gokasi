@@ -35,3 +35,7 @@ func main() {
   gokasi.Destroy()
 }
 ```
+Output:
+```
+bokuha mimi to me wo toji kuchi wotsugunda ningen ninarouto kangae ta
+```
